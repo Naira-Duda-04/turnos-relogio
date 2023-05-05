@@ -29,7 +29,7 @@ function relogio(){
         
 
         img.src ="http://8bitters.com/wp-content/uploads/2017/02/FRQCRvC-e1487952606120.png"
-        document.getElementById('turno').backgroundSize = "100% 820%"  
+        document.getElementById('turno').backgroundSize = "300% 820%"  
     }
 
     else if(formatoHoras >= 6 && formatoHoras <7){
@@ -46,7 +46,7 @@ function relogio(){
         
 
         img.src ="http://8bitters.com/wp-content/uploads/2017/02/fFFhbzn-e1487952592576.png"
-        document.getElementById('turno').backgroundSize = "100% 820%"
+        document.getElementById('turno').backgroundSize = "300% 820%"
 
     }
 
@@ -55,7 +55,7 @@ function relogio(){
         
 
         img.src ="http://8bitters.com/wp-content/uploads/2017/02/dopMHAn-e1487952574827.png"
-        document.getElementById('turno').backgroundSize = "100% 820%"
+        document.getElementById('turno').backgroundSize = "300% 820%"
 
     }
 
@@ -64,7 +64,7 @@ function relogio(){
         
 
         img.src ="http://8bitters.com/wp-content/uploads/2017/02/xYd8QuO-e1487952716384.png"
-        document.getElementById('turno').backgroundSize = "100% 820%"
+        document.getElementById('turno').backgroundSize = "300% 820%"
 
     }
 
@@ -73,7 +73,7 @@ function relogio(){
         
 
         img.src ="http://8bitters.com/wp-content/uploads/2017/02/VG8ZlrH-e1487952705685.png"
-        document.getElementById('turno').backgroundSize = "100% 820%"
+        document.getElementById('turno').backgroundSize = "300% 820%"
 
     }
 
@@ -83,7 +83,7 @@ function relogio(){
         
 
         img.src ="http://8bitters.com/wp-content/uploads/2017/02/jKA4Jiz-e1487952672997.png"
-        document.getElementById('turno').backgroundSize = "100% 820%"
+        document.getElementById('turno').backgroundSize = "300% 820%"
     }
 
     else if(formatoHoras >= 16 && formatoHoras <17){
@@ -91,7 +91,7 @@ function relogio(){
        
 
         img.src ="http://8bitters.com/wp-content/uploads/2017/02/IHO2QO2-e1487952642671.png"
-        document.getElementById('turno').backgroundSize = "100% 820%"
+        document.getElementById('turno').backgroundSize = "300% 820%"
     }
 
     else if(formatoHoras >= 17 && formatoHoras <20){
@@ -99,7 +99,7 @@ function relogio(){
         
 
         img.src ="http://8bitters.com/wp-content/uploads/2017/02/DBHONQC-e1487952554419.png"
-        document.getElementById('turno').backgroundSize = "100% 820%"
+        document.getElementById('turno').backgroundSize = "300% 820%"
     }
 
     else if(formatoHoras >= 20 && formatoHoras <23){
@@ -107,7 +107,7 @@ function relogio(){
         
 
         img.src ="http://8bitters.com/wp-content/uploads/2017/02/9NWnVvH-e1487952497178.png"
-        document.getElementById('turno').backgroundSize = "100% 820%"
+        document.getElementById('turno').backgroundSize = "300% 820%"
     }
 
     else if(formatoHoras >= 23 && formatoHoras <2){
@@ -115,7 +115,7 @@ function relogio(){
         
 
         img.src ="http://8bitters.com/wp-content/uploads/2017/02/9NWnVvH-e1487952497178.png"
-        document.getElementById('turno').backgroundSize = "100% 820%"
+        document.getElementById('turno').backgroundSize = "300% 820%"
     }
 
 
@@ -124,7 +124,7 @@ function relogio(){
         
 
         img.src ="http://8bitters.com/wp-content/uploads/2017/02/JeZ1rj8-e1487952661199.png"
-        document.getElementById('turno').backgroundSize = "100% 820%"
+        document.getElementById('turno').backgroundSize = "300% 820%"
     }
 
 
