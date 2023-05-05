@@ -1,0 +1,95 @@
+@charset "UTF-8";
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(http://8bitters.com/wp-content/uploads/2017/02/FRQCRvC-e1487952606120.png);
+    background-repeat: no-repeat;
+    background-size: 100% 820%;
+}
+
+h1 {
+    font-size: 60px;
+    text-shadow: 10px 5px 2.5px #5ba2f974;
+    text-align: center;
+    color: #8d1042;
+    
+}
+
+h2{
+    font-size: 30px;
+    text-shadow: 10px 5px 2.5px #5ba2f974;
+    text-align: center;
+    color: #8d1042;
+}
+
+footer {
+    background-color: #5d903b;
+    padding: 5px;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    font-size: 25px;
+    text-shadow: 10px 5px 2.5px #037a958c;
+
+}
+
+.insta{
+    width: 28px;
+    height: 28px;
+    border-radius: 15px 15px;
+}
+
+.github{
+    width: 28px;
+    height: 28px;
+    border-radius: 15px 15px;
+}
+
+.linkdim{
+    width: 28px;
+    height: 28px;
+    border-radius: 15px 15px;
+}
+
+.relogio {
+    left: 55px;
+    font-size: 55px;
+    color: #87049c;
+}
+
+.frase{
+    font-size: 35px;
+    color: #87049c;
+}
+
+#titulo{
+    position: relative;
+    float: left;
+    left: 35%;
+    top: 30%;
+    position: absolute;
+    background-color: #d1cfe098;
+    border-radius: 25px;
+}
+
+#square {
+    text-align: center;
+    width: 25em;
+    height: 8em;
+    border: none;
+    margin-bottom: 1em;
+}
+
+.dd{
+    visibility: hidden;  
+}
